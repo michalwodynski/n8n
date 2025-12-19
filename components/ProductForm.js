@@ -20,7 +20,7 @@ import GoogleDrivePicker from "./GoogleDrivePicker";
 const defaultValues = {
   productName: "",
   selectedFolder: "",
-  productImage: undefined,
+  productImage: null,
 };
 
 export function ProductForm() {
